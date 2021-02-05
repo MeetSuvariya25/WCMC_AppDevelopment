@@ -9,3 +9,11 @@ Video : https://drive.google.com/file/d/1u34wtseqQvwY2rKWXqOa8z-FLbe-AcIz/view?u
 <p align="center">
 <img src="https://github.com/MeetSuvariya25/WCMC_AppDevelopment/blob/main/Startup%20Name%20Generator/SN1.PNG" width="200" height="400" />
 </p>
+
+I added favorites List features to that app. User can add/remove names to their favorites list. Any number of names can be saved. I added Favorites Icon to the all items of List view. User can add names in their favorites list using that Icon.
+<p align="center">
+<img src="https://github.com/MeetSuvariya25/WCMC_AppDevelopment/blob/main/Startup%20Name%20Generator/SN1.PNG" width="200" height="400" />
+</p>
+<p align="center">
+<img src="https://github.com/MeetSuvariya25/WCMC_AppDevelopment/blob/main/Startup%20Name%20Generator/SN1.PNG" width="200" height="400" />
+</p>
