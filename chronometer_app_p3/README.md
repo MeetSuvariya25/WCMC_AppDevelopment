@@ -1,16 +1,14 @@
-# chronometer_app_p3
+# Chronometer App
 
-Chronometer App 
+I have created this Chronometer app using flutter.
 
-## Getting Started
+<p align="center">
+<img src="https://github.com/MeetSuvariya25/WCMC_AppDevelopment/blob/main/chronometer_app_p3/chronometer_p3_1.PNG" width="200" height="400" />
+<img src="https://github.com/MeetSuvariya25/WCMC_AppDevelopment/blob/main/chronometer_app_p3/chronometer_p3_2.PNG" width="200" height="400" />
+<img src="https://github.com/MeetSuvariya25/WCMC_AppDevelopment/blob/main/chronometer_app_p3/chronometer_p3_3.PNG" width="200" height="400" />
+</p>
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+##### App Demo:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+https://drive.google.com/file/d/1PKR7IUJjzB1O2h_7f8548YdBrcG4Ep4n/view?usp=sharing
