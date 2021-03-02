@@ -2,15 +2,25 @@
 
 This app will send the local notification. In this Application two types of notification aee there. Instant and scheduled 
 
-## Getting Started
+## Output:
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+<p align="center">
+<img src="https://github.com/MeetSuvariya25/WCMC_AppDevelopment/blob/main/notifier_app_p5/ss/N_1.jpeg" width="200" height="400" />
+<img src="https://github.com/MeetSuvariya25/WCMC_AppDevelopment/blob/main/notifier_app_p5/ss/N_2.jpeg" width="200" height="400" />
+<img src="https://github.com/MeetSuvariya25/WCMC_AppDevelopment/blob/main/notifier_app_p5/ss/N_3.jpeg" width="200" height="400" />
+</p>
+<p align="center">
+<img src="https://github.com/MeetSuvariya25/WCMC_AppDevelopment/blob/main/notifier_app_p5/ss/N_4.jpeg" width="200" height="400" />
+<img src="https://github.com/MeetSuvariya25/WCMC_AppDevelopment/blob/main/notifier_app_p5/ss/N_5.jpeg" width="200" height="400" />
+<img src="https://github.com/MeetSuvariya25/WCMC_AppDevelopment/blob/main/notifier_app_p5/ss/N_6.jpeg" width="200" height="400" />
+</p>
+<p align="center">
+<img src="https://github.com/MeetSuvariya25/WCMC_AppDevelopment/blob/main/notifier_app_p5/ss/N_7.jpeg" width="200" height="400" />
+<img src="https://github.com/MeetSuvariya25/WCMC_AppDevelopment/blob/main/notifier_app_p5/ss/N_8.jpeg" width="200" height="400" />
+<img src="https://github.com/MeetSuvariya25/WCMC_AppDevelopment/blob/main/notifier_app_p5/ss/N_9.jpeg" width="200" height="400" />
+</p>
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+##### App Demo:
+https://drive.google.com/file/d/1R7r_E65_5f8J_8t8XMOJ3VCx45gwvqUC/view?usp=sharing
