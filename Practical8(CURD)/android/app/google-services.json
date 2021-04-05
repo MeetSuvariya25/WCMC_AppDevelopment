@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "766480841185",
+    "project_id": "curd-app-19305",
+    "storage_bucket": "curd-app-19305.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:766480841185:android:deb426e8cd051cb998faa0",
+        "android_client_info": {
+          "package_name": "com.example.prac8"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "766480841185-v90gmq4btmcrl6fq0nah16ma02muruf9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBi9JA0z4CC4_0TGVekrm1ddUGVwvJYL6A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "766480841185-v90gmq4btmcrl6fq0nah16ma02muruf9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
